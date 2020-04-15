@@ -74,32 +74,32 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Winter, 2019)",
-      "studyType": "Ph.D.",
-      "startDate": "2014",
-      "endDate": "Present",
-      "gpa": "4.0",
+      "institution": "Universidade IESB de Brasília",
+      "area": "Analise e Desenvolvimento de Sistemas",
+      "studyType": "Graduação",
+      "startDate": "2016",
+      "endDate": "",
+      "gpa": "",
       "courses": [
       ]
     },
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2011",
-      "endDate": "2014",
-      "gpa": "4.0",
+      "institution": "Universidade Estacio ",
+      "area": "Redes de Computadores",
+      "studyType": "Graduação.",
+      "startDate": "",
+      "endDate": "2013",
+      "gpa": "",
       "courses": [
       ]
     },
     {
-      "institution": "Slippery Rock University of Pennsylvania, Slippery Rock, PA",
-      "area": "Computer Science",
-      "studyType": "B.S.",
-      "startDate": "2007",
-      "endDate": "2011",
-      "gpa": "3.5",
+      "institution": "Universidade Iesb de Brasília",
+      "area": "Inteligência de Negócios e Data Warehouse (concluir) ",
+      "studyType": "Pos Graduação",
+      "startDate": "",
+      "endDate": "",
+      "gpa": "",
       "courses": [
       ]
     }
