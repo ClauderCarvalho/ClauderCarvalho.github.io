@@ -1,29 +1,29 @@
 {
   "basics": {
-    "name": "Anthony J. Christe",
-    "label": "Ph.D. Student and Research Assistant",
+    "name": "Clauder Noronha",
+    "label": "",
     "picture": "https://anthonyjchriste.github.io/images/me.png",
-    "email": "achriste@hawaii.edu",
-    "phone": "814-442-9524",
-    "website": "https://anthonyjchriste.github.io",
+    "email": "clauder.noronha@gmail.com",
+    "phone": "(61)98587-3542",
+    "website": "https://github.com/ClauderCarvalho",
     "summary": "I am working towards a Ph.D. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Winter, 2019.",
     "location": {
-      "address": "",
-      "postalCode": "96816",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "SQS 416 Bloco C",
+      "postalCode": "",
+      "city": "Brasilia",
+      "countryCode": "",
+      "region": "Distrito Federal"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "anthonyjchriste",
-        "url": "http://github.com/anthonyjchriste"
+        "username": "ClauderCarvalho",
+        "url": "https://github.com/ClauderCarvalho"
       },
       {
         "network": "linkedin",
-        "username": "anthonyjchriste",
-        "url": "http://linkedin.com/in/anthonyjchriste"
+        "username": "ClauderNoronha",
+        "url": "https://www.linkedin.com/in/clauder-noronha-912b6655/"
       }
     ]
   },
