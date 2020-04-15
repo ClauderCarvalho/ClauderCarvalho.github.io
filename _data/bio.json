@@ -28,7 +28,7 @@
       }
     ]
   },
-  "interests": [
+  "": [
     {
       "name": "Procuro entender o mundo através do dados.",
       "keywords": [
@@ -37,12 +37,12 @@
       ]
     },
     {
-      "name": "data science",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "signal classification",
+      "name": "",
       "keywords": [
       ]
     }
