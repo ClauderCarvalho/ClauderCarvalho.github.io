@@ -6,9 +6,8 @@
     "email": "clauder.noronha@gmail.com",
     "phone": "(61)98587-3542",
     "website": "https://github.com/ClauderCarvalho",
-    "summary": "Fornecer soluções orientadas a dados de problemas de negócios desafiadores." 
-              " Cientista de dados de negócios com capacidade demonstrada para fornecer informações valiosas através de análise de dados e métodos avançados baseados em dados",
-
+    "summary": "Analista de Dados e Cientista de Dados ." ,
+              
     "location": {
       "address": "SQS 416 Bloco C",
       "postalCode": "",
@@ -31,7 +30,7 @@
   },
   "interests": [
     {
-      "name": "distributed computing",
+      "name": "Procuro entender o mundo através do dados.",
       "keywords": [
         "spark",
         "kafka"
