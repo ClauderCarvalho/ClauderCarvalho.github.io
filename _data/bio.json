@@ -35,31 +35,12 @@
   
   
   
-  "skills": [
-    {
-      "name": "DSA",
-      "level": "",
-      "keywords": [
-        "C",
-        "Java",
-        "Javascript",
-        "Clojure",
-        "Python",
-        "Rust"
-      ]
-    },
-    {
-      "name": "Anlise de dados ",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Linux",
-        "Git/GitHub",
-        "gnu utils",
-        "JVM"
-      ]
-    }
-  ],
+ 
+  
+  
+  
+  
+  
   "education": [
     {
       "institution": "Universidade IESB de Brasília",
@@ -93,6 +74,47 @@
     }
   ],
 
+ 
+   "skills": [
+    {
+      "name": "DSA",
+      "level": "",
+      "keywords": [
+        "C",
+        "Java",
+        "Javascript",
+        "Clojure",
+        "Python",
+        "Rust"
+      ]
+    },
+    {
+      "name": "Anlise de dados ",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Linux",
+        "Git/GitHub",
+        "gnu utils",
+        "JVM"
+      ]
+    }
+  ],
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   "work": [{
     "company": "University of Hawaii at Manoa",
     "position": "Research Assistant",
