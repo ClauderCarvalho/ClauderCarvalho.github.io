@@ -23,19 +23,20 @@
       },
       {
         "network": "linkedin",
-        "username": "ClauderNoronha",
+        "username": "Clauder Noronha",
         "url": "https://www.linkedin.com/in/clauder-noronha-912b6655/"
       }
     ]
   },
-  "interests": [
+ <!-- {
+    "interests": [
     {
       "name": "Procuro entender o mundo através do dados.",
       "keywords": [
         "spark",
         "kafka"
       ]
-    },
+    },-->
     {
       "name": "",
       "keywords": [
