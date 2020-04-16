@@ -100,71 +100,8 @@
     "endDate": "Present",
     "summary": "Design of a framework for acquisition and analysis of distributed infrasound signals",
     "highlights": []
-  }, {
-    "company": "OpenPowerQuality",
-    "position": "Co-Founder/Lead Software Engineer",
-    "website": "openpowerquality.org",
-    "startDate": "2014",
-    "endDate": "Present",
-    "summary": "Designed and implemented a suite of software for the aggregation, storage, and reporting of distributed power quality data.",
-    "highlights": []
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Research Assistant",
-    "website": "",
-    "startDate": "2013",
-    "endDate": "2014",
-    "summary": "Designed and implemented open source distributed power quality monitoring software.",
-    "highlights": ["Investigate protocols for communication between power quality monitoring equipment and backends", "Identify power quality issues and inform users and the public", "Design an interface for distributed power quality metrics consumption and reporting"]
-  }, {
-    "company": "University of Hawaii at Manoa",
-    "position": "Teaching Assistant",
-    "website": "",
-    "startDate": "2011",
-    "endDate": "2013",
-    "summary": "Designed and ran the ICS 211 lab",
-    "highlights": ["Teach a diverse set of students core building blocks of programming techniques and tools", "Innovate using github to distribute classroom assignments and collect grades"]
-  }, {
-    "company": "Regional Learning Alliance, Cranberry, PA",
-    "position": "Assistant to Director of Technology",
-    "website": "",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "Assist in issues relating from IT to database entry",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Undergraduate Research Assistant",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed software for batch processing of requests from NOAA\u2019s Hysplit software package.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "HPC Cluster Engineer",
-    "website": "",
-    "startDate": "2009",
-    "endDate": "2011",
-    "summary": "Developed, built, and maintained a computer cluster using COTS equipment.",
-    "highlights": []
-  }, {
-    "company": "Slippery Rock University of Pennsylvania",
-    "position": "Student Computer Help Desk",
-    "website": "",
-    "startDate": "2008",
-    "endDate": "2011",
-    "summary": "Assisted in diagnosing and repairing students\u2019 computer problems.",
-    "highlights": []
-  }],
-  "volunteer": [{
-    "organization": "808 Cleanups",
-    "position": "Software Developer and Cleanup Volunteer",
-    "startDate": "2015",
-    "endDate": "Present",
-    "summary": "Design backend and app for 808 cleanups and well as cleaning up trails",
-    "highlights": []
-  }, {
+  },   
+     {
     "organization": "Upsilon Pi Epsilon, Slippery Rock University of Pennsylvania",
     "website": "",
     "position": "Vice President",
