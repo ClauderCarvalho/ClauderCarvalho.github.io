@@ -77,17 +77,25 @@
  
    "skills": [
     {
-      "name": "DSA",
+      "name": "Formação Cientista de Dados (2020) - Data Science Academy",
       "level": "",
       "keywords": [
-        "C",
-        "Java",
-        "Javascript",
-        "Clojure",
-        "Python",
-        "Rust"
+        
       ]
     },
+    {
+      "name": "Big Data Analytics com R e MS Azure - Data Science Academy",
+      "level": "dificil",
+      "keywords": [
+        "MacOS",
+        "Linux",
+        "Git/GitHub",
+        "gnu utils",
+        "JVM"
+      ]
+    },
+ 
+   
     {
       "name": "Anlise de dados ",
       "level": "",
@@ -99,7 +107,10 @@
         "JVM"
       ]
     }
-  ],
+   
+   
+   
+   ],
   
   
   
