@@ -77,55 +77,81 @@
  
    "skills": [
     {
-      "name": "Formação Cientista de Dados (2020) - Data Science Academy",
+      "name": "Data Science Academy",
       "level": "",
       "keywords": [
-        
+        "Formação Cientista de Dados (2020)"
       ]
     },
     {
-      "name": "Big Data Analytics com R e MS Azure - Data Science Academy",
-      "level": "dificil",
+      "name": "Data Science Academy",
+      "level": "",
       "keywords": [
-        "MacOS",
-        "Linux",
-        "Git/GitHub",
-        "gnu utils",
-        "JVM"
+        "Big Data Analytics com R e MS Azure"
+        
       ]
     },
  
    
     {
-      "name": "Anlise de dados ",
+      "name": "Data Science Academy",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Linux",
-        "Git/GitHub",
-        "gnu utils",
-        "JVM"
+        "Big Data Real-Time Analytics com Python e Spark"
+        
+      ]
+    },
+   
+   {
+      "name": " Udemy",
+      "level": "",
+      "keywords": [
+        "Business Inteligence"
+        
+      ]
+    },
+   {
+      "name": "Data Science Academy",
+      "level": "",
+      "keywords": [
+        " Power BI Aplicado a Problemas Reais"
+        
+      ]
+    },
+   
+   {
+      "name": "Data Science Academy",
+      "level": "",
+      "keywords": [
+        "  Python Fundamentos para Análise de Dados "
+        
+      ]
+    },  
+     
+     {
+      "name": "Udemy",
+      "level": "",
+      "keywords": [
+        "  Python para Análise Financeira "
+        
+      ]
+    },
+     
+     
+     {
+      "name": "Udemy",
+      "level": "",
+      "keywords": [
+        "  Formação Cientista de Dados com R e Python "
+        
       ]
     }
-   
-   
    
    ],
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
   "work": [{
     "company": "University of Hawaii at Manoa",
     "position": "Research Assistant",
