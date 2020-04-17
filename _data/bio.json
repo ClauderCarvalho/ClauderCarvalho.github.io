@@ -232,38 +232,69 @@
     "summary": "Assisted in diagnosing and repairing students\u2019 computer problems.",
     "highlights": []
   }],
+ 
+  
+  
+  
+  
   "volunteer": [{
-    "organization": "808 Cleanups",
-    "position": "Software Developer and Cleanup Volunteer",
-    "startDate": "2015",
-    "endDate": "Present",
-    "summary": "Design backend and app for 808 cleanups and well as cleaning up trails",
+    "organization": "",
+    "position": "Visualização",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Tableau, Power BI, QlikView e Qlik Sense",
     "highlights": []
   }, {
-    "organization": "Upsilon Pi Epsilon, Slippery Rock University of Pennsylvania",
+    "organization": "",
     "website": "",
-    "position": "Vice President",
-    "startDate": "2010",
-    "endDate": "2011",
-    "summary": "International Honor Society for the Computing and Information Disciplines",
-    "highlights": []
-  }, {
-    "organization": "Slippery Rock University of Pennsylvania",
-    "website": "",
-    "position": "Student Advisor to the Dean",
-    "startDate": "2010",
-    "endDate": "2010",
+    "position": "Data Science",
+    "startDate": "",
+    "endDate": "",
     "summary": "",
     "highlights": []
   }, {
-    "organization": "Computer Technology Club, Slippery Rock University of Pennsylvania",
+    "organization": "",
     "website": "",
-    "position": "President",
-    "startDate": "2009",
-    "endDate": "2010",
+    "position": "Linguagens",
+    "startDate": "",
+    "endDate": "",
+    "summary": "Python, SQL e Shell Scripts",
+    "highlights": []
+  }, 
+                
+      {
+    "organization": "",
+    "website": "",
+    "position": "Banco de Dados",
+    "startDate": "",
+    "endDate": "",
+    "summary": "MySQL,SQL Server, Postgres e Mongodb",
+    "highlights": []
+  },
+       
+                {
+    "organization": "",
+    "website": "",
+    "position": "Ferramentas de ETL",
+    "startDate": "",
+    "endDate": "",
+    "summary": "PDI e Talend",
+    "highlights": []
+  },
+               
+            
+                {
+    "organization": "",
+    "website": "",
+    "position": "Azure",
+    "startDate": "",
+    "endDate": "",
     "summary": "",
     "highlights": []
-  }],
+  }   
+               
+               
+               ],
   "awards": [
     {
     "name": "Desenvolver algoritmos associados a base de dados aplicando análises estatísticas e modelagem de dados preditivos que foram utilizados para aprofundar relacionamentos, fortalecer a longevidade e personalizar as interações com os clientes.", 
