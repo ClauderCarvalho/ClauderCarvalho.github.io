@@ -200,7 +200,7 @@
     "website": "",
     "startDate": "2014",
     "endDate": "Present",
-    "summary": "Projetou e implementou meios de armazenar e tratar dados. Com auxílio de ferramentas, busca entregar aos tomadores de decisões um material rico em informações.",
+    "summary": "Projetou e implementou meios de armazenar e tratar dados. Com auxílio de ferramentas, busca entregar informações aos tomadores de decisões.",
     "highlights": []
   }, 
            
@@ -235,7 +235,7 @@
     "position": "Data Science",
     "startDate": "",
     "endDate": "",
-    "summary": "",
+    "summary": "Hadoop , Spark, Pandas, Numpy, Matplotlib,Seaborn",
     "highlights": []
   }, {
     "organization": "",
@@ -243,7 +243,7 @@
     "position": "Linguagens",
     "startDate": "",
     "endDate": "",
-    "summary": "Python, SQL e Shell Scripts",
+    "summary": "R, Python, SQL e Shell Scripts",
     "highlights": []
   }, 
                 
