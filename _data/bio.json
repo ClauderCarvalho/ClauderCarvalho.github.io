@@ -195,13 +195,17 @@
   
 
   "work": [{
-    "company": "SCT ",
-    "position": "Analista de Dados",
+    "company": " ",
+    "position": "SCT",
     "website": "",
     "startDate": "2014",
     "endDate": "Present",
-    "summary": "Projetou e implementou meios de armazenar e tratar dados. Com auxílio de ferramentas, busca entregar informações aos tomadores de decisões.",
-    "highlights": []
+    "summary": "Analista de Dados",
+    "highlights": [
+    
+    "Projetou e implementou meios de armazenar e tratar dados. Com auxílio de ferramentas, busca entregar informações aos tomadores de decisões."
+    
+    ]
   }, 
            
         
