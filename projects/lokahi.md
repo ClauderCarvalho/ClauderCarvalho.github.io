@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/lokahi.jpg
-title: Lokahi Framework
-permalink: projects/lokahi
-date: 2015
+image: https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg
+title: Covid-19
+permalink: 
+date: 2020
 labels:
-  - Play
-  - Java
   - Python
-  - Akka
-  - Kafka
-  - MongoDB
+  - Pandas
+  - Numpy
+  - Google Coolab
+  - MatplotLib
+  - Seaborn
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
