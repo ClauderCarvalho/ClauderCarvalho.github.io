@@ -47,9 +47,8 @@ _**FONTE**:http://www.saude.sp.gov.br/resources/cve-centro-de-vigilancia-epidemi
 
 
 # Analise de Dados sobre o Covid-19 Mundo.
-
-## Clauder Noronha Abril - 2020
-### O estudo pratico foi feito com os dados do Covid-19 no mês de abril, através do do site da FIOCRUZ https://portal.fiocruz.br/coronavirus .
+Clauder Noronha Abril - 2020
+O estudo pratico foi feito com os dados do Covid-19 no mês de abril, através do do site da FIOCRUZ https://portal.fiocruz.br/coronavirus .
 
 
 Para fazer o tratamento dos dados foram utilizadas quatro bibliotecas. Pandas é uma biblioteca open source amplamente utilizada na comunidade acadêmica. Uma das caracteristicas do Pandas é o seu desempenho e pela sua capacidade de manipulação de dados.
@@ -68,7 +67,6 @@ df.head(5)
 Vamos observar cinco primeira linha da base de dados do Covid-19 utlizando o comando head
 
 <img class="ui image" src="{{ site.baseurl }}/images/head.jpg">
-
 
 
 
