@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image:  <img class="ui image" src="{{ site.baseurl }}/images/covid19.jpg">
-title: Covid-19
+image:  images/kip.png
+title: Covid-19 (Novo Coronavírus)
 permalink: 
 date: 2020
 labels:
@@ -21,7 +21,7 @@ summary: Lokahi is a framework of components for acquisition, storage, andlysis,
 
 
 
-   COVID-19 (Corona Virus)
+  
 
 Por meio do portal da saúde do estado de SP o coronavírus (CoV) são uma grande família viral, conhecidos desde meados dos anos 1960, que causam infecções respiratórias em seres humanos e em animais. Geralmente, infecções por coronavírus causam doenças respiratórias leves a moderada, semelhantes a um resfriado comum. A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida, sendo as crianças pequenas mais propensas a se infectarem. Os coronavírus comuns que infectam humanos são alpha coronavírus 229E e NL63 e beta coronavírus OC43, HKU1.
 
