@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:  https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg
+image:  <img class="ui image" src="{{ site.baseurl }}/images/covid19.jpg">
 title: Covid-19
 permalink: 
 date: 2020
@@ -15,21 +15,11 @@ labels:
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/opq-screenshot.png">
-
-
-<img class="ui image" src="{{ site.baseurl }}/images/kip-screenshot.png">
 
 
 <img class="ui image" src="{{ site.baseurl }}/images/covid19.jpg">
 
 
-claudercarvalho.github.io/images/covid19.jpg
-
-![](claudercarvalho.github.io/images/covid19.jpg)
-
-
-<img src="https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg">
 
    COVID-19 (Corona Virus)
 
