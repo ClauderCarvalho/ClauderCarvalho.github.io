@@ -15,7 +15,7 @@ labels:
 summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
 ---
 
-![](https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg)
+![](claudercarvalho.github.io/images/covid19.jpg)
 
 
 <img src="https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg">
