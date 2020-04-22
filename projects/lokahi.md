@@ -12,7 +12,8 @@ labels:
   - Google Coolab
   - MatplotLib
   - Seaborn
-summary: Lokahi is a framework of components for acquisition, storage, andlysis, and reporting of real-time distributed transient data.
+summary: O COVID-19 (coronavírus) é uma doença infecciosa causada por um novo vírus.
+         Ele causa problemas respiratórios semelhantes à gripe e sintomas como tosse, febre e, em casos mais graves, dificuldade para respirar. 
 ---
 
 
