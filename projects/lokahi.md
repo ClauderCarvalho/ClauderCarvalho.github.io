@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg
+image: images/covid19.jpg
 title: Covid-19
 permalink: 
 date: 2020
