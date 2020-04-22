@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image:  images/kip.png
+image: images/covid19.png
 title: Covid-19 (Novo Coronavírus)
 permalink: 
 date: 2020
