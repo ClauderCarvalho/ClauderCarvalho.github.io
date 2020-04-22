@@ -17,6 +17,10 @@ summary: Lokahi is a framework of components for acquisition, storage, andlysis,
 
 <img class="ui image" src="{{ site.baseurl }}/images/opq-screenshot.png">
 
+
+<img class="ui image" src="{{ site.baseurl }}/images/kip-screenshot.png">
+
+
 <img class="ui image" src="{{ site.baseurl }}/images/covid19.jpg">
 
 
