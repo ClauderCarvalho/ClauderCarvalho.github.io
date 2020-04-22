@@ -17,7 +17,7 @@ summary: Lokahi is a framework of components for acquisition, storage, andlysis,
 
 ![](claudercarvalho.github.io/images/covid19.jpg)
 
-
+<img class="ui image" src="{{ site.baseurl }}/images/opq-screenshot.png">
 <img src="https://github.com/ClauderCarvalho/claudercarvalho.github.io/blob/master/images/covid19.jpg">
 
    COVID-19 (Corona Virus)
