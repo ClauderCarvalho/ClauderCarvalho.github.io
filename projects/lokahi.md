@@ -66,9 +66,45 @@ df.head(5)
 ```
 Vamos observar cinco primeira linha da base de dados do Covid-19 utlizando o comando head
 
-<img class="ui image" src="{{ site.baseurl }}/images/head.jpg">
+
 
 <img src="../images/head.png" class="ui large image">
+
+
+
+```python
+df.tail(5)
+```
+
+Vamos observar cinco ultmimas linhas da base de dados do Covid-19 utilizando o comando tail.
+
+
+<img src="../images/Tail.png" class="ui large image">
+
+
+
+Estamos criando uma nova coluna, essa coluna vai ser criada para mostrar os casos ativos e o caso de morte.
+
+
+
+### Dados Temporais
+
+
+```python
+df.Date.describe()
+```
+Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. Os dados temporais são diarios.
+
+
+<img src="../images/Temporais.png" class="ui large image">
+
+
+
+
+
+
+
+
 
 
 
