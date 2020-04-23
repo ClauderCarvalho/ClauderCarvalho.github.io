@@ -99,26 +99,101 @@ Utilizamos os dados temporais par asaber qual a data de inicio e a data do fim. 
 <img src="../images/Temporais.png" class="ui large image">
 
 
+### Agrupamento de Dados
+
+Foi preciso fazer uma agrupamento de dados para obter o numero de casos confirmados que foram recuperados e também pessoas que vieram a óbito.
+
+```python
+df.groupby
+```
+<img src="../images/agrupamento.png" class="ui large image">
 
 
 
 
 
+# Graficos
+
+A Pandemia do novo coronavírus (Covid-19) já deixou mais de 45 mil mortos na Europa, dos quais cerca de 85% em Itália, Espanha e França.
+Com um total de 46.033 mortos e 627.203 casos oficialmente declarados. A Europa é o continente mais afetado pela pandemia.
+
+A parte mais escura do gráfico mostra o alto índice de caso de infectados do novo coronavírus.
 
 
 
+<img src="../images/mapaCasoLongoTempo.png" class="ui large image">
 
-### Distributed Metrics / Data Access
-The [Play Framework](https://www.playframework.com/) is used to serve dynamic web content to users. We display products 
-of analysis, network health metrics, maps of sensors, and access to data. We also provide a data API. Queries for data 
-are distributed using Akka actors.
 
-<img src="../images/lokahi-map.png" class="ui large image">
+Separamos cinco países, EUA, Espanha, Itália, China e Brasil. Vale lembrar que a data foi no dia 06/04/2020. Buscamos mostrar a quantidade de pessoas confirmada e a quantidade de pessoas mortas em cada país.
 
-<img src="../images/lokahi-stats.png" class="ui large image">
 
-<img src="../images/lokahi-list.png" class="ui large image">
+EUA  
+Confirmados                366.614
+Mortos                      10.783
 
-## More Information
 
-Coming soon...
+
+Espanha
+
+Confirmados               136.675
+Mortos                     13.341
+
+
+
+Itália
+
+Confirmados            132.547
+Mortos                  16.523
+
+
+China
+
+Confirmados                 82.665
+Mortos                        3.335  
+
+
+Brasil
+
+Confirmados             12.161
+Mortos                     564
+
+
+## Grafíco de painel
+
+Esse Gráfico mostra a quantidade de casos confirmados em todos os países. Quando o quadro é maior existe a grande quantidade de casos confirmado.
+
+
+
+<img src="../images/CasosConfirmados.png" class="ui large image">
+
+
+## Grafíco Pico de Elevação  - Mortes
+
+Esse grafíco mostrar o crescimento de caso de morte cometido pelo novo coronavìdeo(Covid-19)
+
+
+<img src="../images/CasosConfirmados1.png" class="ui large image">
+
+
+A linha mostra o alto índice de mortes nos EUA
+
+
+## Grafíco de painel -  Mortes
+
+<img src="../images/MOrtesConfirmada.png" class="ui large image">
+
+
+
+## Grafíco Mapas
+
+Para terminar vamos mostrar através de um mapa por países, quanto maior o círculo maior é a quantidade de confirmados e de mortes, através do novo coronavìrus(Covid-19). 
+
+![](https://github.com/ClauderCarvalho/Covid-19_Mundo/blob/master/PaisesComMaiorNUmerodeCaso.png)
+
+<img src="../images/PaisesComMaiorNUmerodeCaso.png" class="ui large image">
+
+
+ 
+ 
+ ## O codigo fonte do projeto esta no github. 
+https://github.com/ClauderCarvalho/Covid-19_Mundo
