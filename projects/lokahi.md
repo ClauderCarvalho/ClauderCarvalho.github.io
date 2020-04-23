@@ -68,7 +68,7 @@ Vamos observar cinco primeira linha da base de dados do Covid-19 utlizando o com
 
 <img class="ui image" src="{{ site.baseurl }}/images/head.jpg">
 
-
+<img src="../images/head.png" class="ui large image">
 
 
 
